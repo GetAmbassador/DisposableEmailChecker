@@ -1131,7 +1131,7 @@ def email_domain_loader():
         'ubismail.net',
         'uggsrock.com',
         'uk2.net',
-        'ukr.net',
+        #'ukr.net', # ET-7683, Oportun uses this in Prod
         'umail.net',
         'unmail.ru',
         'unterderbruecke.de',
